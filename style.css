@@ -1,18 +1,12 @@
 #container{
-    width: 900px;
+    width: 560px;
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    border: 1px solid black;
 }
 .box{
-    width: 16px;
-    height: 16px;
-    border: 1px solid blue;
+    border: 0.1px solid blue;
 }
 .hover{
-    width: 16px;
-    height: 16px;
-    border: 1px solid blue;
+    border: 0.1px solid blue;
     background-color: red;
 }
